@@ -3,10 +3,10 @@
 
 public class Variable {
     public static void main(String[] args) {
-        int myInt = 100;
+        int myInt = 45;
         float myFloat = 10.5f;
-        double myDouble = 99.99;
-        char myChar = 'A';
+        double myDouble = 559.99;
+        char myChar = 'I';
         boolean myBoolean = true;
 
         System.out.println("int: " + myInt);
